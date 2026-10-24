@@ -1,3 +1,5 @@
+EXPERIMENT
+
 # Daywise
 
 Everyday task help for older adults at home. Pick a ready-made task, answer a few questions (tap or speak), and get a clear result. AI runs behind the scenes — no prompting skills required.
